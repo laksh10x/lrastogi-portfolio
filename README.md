@@ -2,6 +2,8 @@
 
 This repository contains the source code for my personal portfolio website, built to showcase my academic achievements, technical skills, projects, and professional experience. The site is designed for an engaging and professional user experience, offering a glimpse into my journey in software development and computational mathematics.
 
+## Live Link
+https://lakshyarastogi.vercel.app
 ## Features
 - **Dynamic Content Management**: Built using Django templates for structured and reusable content.
 - **Responsive Design**: Uses Bootstrap 4 and custom CSS for seamless display across all devices.
