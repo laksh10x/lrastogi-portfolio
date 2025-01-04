@@ -27,5 +27,6 @@ https://lakshyarastogi.vercel.app
 - Add a blog section for personal insights and tutorials.
 - Implement a contact form for direct communication.
 - Integrate analytics to track user interactions.
+- Update personal information, projects, and experiences which haven't been changed since deployment in October 2024. 
 
 This project demonstrates my expertise in full-stack web development and my ability to design responsive, interactive websites tailored to professional needs.
